@@ -1,0 +1,5 @@
+9. Enhance the Map Reduce program of Task 8 (refer session 6, assignment 1) to use multiple reducers for sorting.
+The driver should accept three additional values: the minimum units sold, the maximum units sold and number of reducers to use.
+Use units sold as key and company as value.
+Write a custom partitioner to divide the keys on the basis of range.
+Take minimum to be 0 and maximum to be 10. Divide them across 2 reducers.

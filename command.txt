@@ -1,0 +1,6 @@
+hadoop jar /home/acadgild/Desktop/SortingTotalUnitsSoldByCompanyUsingPartitioner.jar /user/acadgild/out_sold_company_sequence/part-r-00000 /user/acadgild/out_sold_company_seq_out_partition 5 10 2
+
+
+
+
+
